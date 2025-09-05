@@ -5,6 +5,7 @@ project:
   description: "SPI-controlled PWM peripheral for Tiny Tapeout."
   top_module: "tt_um_uwasic_onboarding_hurayrah_butt"
   tiles: 1x1
+  language: verilog
 
   # List your project's source files here.
   # Source files must be in ./src and you must list each source file separately, one per line.
