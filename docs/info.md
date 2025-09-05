@@ -8,8 +8,8 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-## Hurayrah Butt
+## This project implements a SPI-controlled PWM peripheral for Tiny Tapeout 
+## Author: Hurayrah Butt  
 
 ## How to test
 
