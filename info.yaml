@@ -1,11 +1,13 @@
 # Tiny Tapeout project information
 project:
-  title: "ASIC Onboarding Project - Your Name"
-  author: "Your Name"
+  title: "ASIC Onboarding Project - Hurayrah Butt"
+  author: "Hurayrah Butt"
+  discord: "idiot_no.3"
   description: "SPI-controlled PWM peripheral for Tiny Tapeout."
   top_module: "tt_um_uwasic_onboarding_hurayrah_butt"
   tiles: 1x1
   language: verilog
+  clock_hz: 0
 
   # List your project's source files here.
   # Source files must be in ./src and you must list each source file separately, one per line.
