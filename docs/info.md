@@ -9,12 +9,18 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
+ placeholder text
+
 Explain how your project works
 
 ## How to test
 
+    placeholder text
+
 Explain how to use your project
 
 ## External hardware
+
+    placeholder text
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
